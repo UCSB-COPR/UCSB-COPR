@@ -1,4 +1,4 @@
-# UCSB-COPR# About the COPR-UCSB GitHub Organization
+# UCSB-COPR About the COPR-UCSB GitHub Organization
 *Note: This organization is currently under development as we continue to build out repositories and data connections (as of October 2025).*
 
 The **Coal Oil Point Reserve (COPR)** GitHub Organization serves as a centralized space for managing, hosting, and sharing research, data, and outreach projects connected to UCSB’s Coal Oil Point Reserve. This includes long-term ecological datasets, water quality monitoring, Shiny dashboards, outreach materials, and collaborative tools used by staff, interns, and researchers.
