@@ -6,7 +6,7 @@ The **Coal Oil Point Reserve (COPR)** GitHub Organization serves as a centralize
 ---
 
 ## 🔗 Repositories and Projects
-Click [HERE](https://github.com/COPR-UCSB) to view current repositories hosted by the Reserve.
+Click [HERE](https://github.com/orgs/UCSB-COPR/repositories) to view current repositories hosted by the Reserve.
 
 Each repository supports a specific program area at COPR:
 - **copr-water-quality:** Data collection, QA/QC workflows, and analysis for Devereux Slough water sampling.
